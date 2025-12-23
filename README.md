@@ -1,12 +1,57 @@
-# React + Vite
+# 🔗 Linkalyze
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Linkalyze** is a modern and minimal link management web application that helps users organize, manage, and share all their important links from a single dashboard.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:**  
+https://extraordinary-stroopwafel-b89de5.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Linkalyze provides a clean interface to create a centralized hub for links.  
+It is designed with simplicity and usability in mind, making it ideal for personal portfolios, social media bios, and professional link sharing.
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](photos/home.png)
+
+### 📊 Dashboard
+![Dashboard](photos/dashboard.png)
+
+
+
+---
+
+## 🚀 Features
+
+- 🔗 Add and manage multiple links
+- 📊 Dashboard view for organized access
+- 🎨 Clean and modern UI
+- 📱 Fully responsive design
+- ⚡ Fast and lightweight frontend
+- 🌐 Deployed on Netlify
+
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS / Tailwind CSS**
+- **Springboot**
+- **Spring **Security****
+- **JWT auth**
+- **Docker**
+- **MySQL**
+- **NeonDB**
+- **Netlify** (Deployment)
+
+
+
+
+
